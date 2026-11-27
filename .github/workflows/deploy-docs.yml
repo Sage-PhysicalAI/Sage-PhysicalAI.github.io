@@ -37,7 +37,7 @@ jobs:
       - name: Checkout internw0-page
         uses: actions/checkout@v4
         with:
-          repository: InternRobotics/internw0-page
+          repository: Sage-PhysicalAI/internw0-page
           path: internw0-page
 
       - name: Set up pnpm
